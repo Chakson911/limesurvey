@@ -28,7 +28,7 @@
 		}
 	},
 	"require": {
-		"facebook/webdriver": "^1.4",
+		"facebook/webdriver": "^1.4"
 		
 	},
     "config": {
